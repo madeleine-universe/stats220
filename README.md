@@ -4,4 +4,4 @@
 Kia ora reader, this repository is for Assignment 1 of the University of Auckland course STATS 220 - Data Technologies Semester 1 2022, developing R skills to transform images to my very first meme. Course led by data science legend Anna Ferguson. 
 
 
-<a href="https://madeleine-universe.github.io/stats220/">View my website here</a>
+You can view my efforts for Part A ![here](https://madeleine-universe.github.io/stats220/index.html) where i transform three images and layer them to produce an original light hearted *meta* meme
