@@ -11,7 +11,7 @@ Don't worry, you're not alone! This is the mildly anonymous public repository fo
 
 You can view my efforts as a baby meme maker [here](https://madeleine-universe.github.io/stats220/index.html) where I have transformed three images and layered them to produce an original light hearted *meta* meme.
 
-Thank you Anna Ferguson (Course Legend aka Coordinator & Teacher) for helping me see the light.
+Thank you Anna Fergusson (Course Legend aka Coordinator & Teacher) for helping me see the light.
 
 ![](https://c.tenor.com/qbLfWTTy2GoAAAAM/i-have-seen-the-light-i-have-got-the-answer.gif)
 
